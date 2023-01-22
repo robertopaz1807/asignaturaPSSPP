@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694549185162",
+    "project_id": "my-notification-push-kotlin",
+    "storage_bucket": "my-notification-push-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694549185162:android:a958ed2ec7786cb60a2373",
+        "android_client_info": {
+          "package_name": "com.miteris.mynotificationpushkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694549185162-mjgqsr1kgmeggt7jhsl7tgrjq5bcost7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZdkQXoQvGYBRxG-0za9C2wS_sgWIcH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694549185162-mjgqsr1kgmeggt7jhsl7tgrjq5bcost7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

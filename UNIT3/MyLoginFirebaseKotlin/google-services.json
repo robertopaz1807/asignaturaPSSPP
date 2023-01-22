@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4927016868",
+    "project_id": "myloginfirebase-b49bd",
+    "storage_bucket": "myloginfirebase-b49bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4927016868:android:7debc2f79765e93833bb31",
+        "android_client_info": {
+          "package_name": "com.miteris.myloginfirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4927016868-ge5js8qn5fobef454pdrknu9tkjm2bp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjPSKQNF9yT0MmrRgqxnrrclQ74a63hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4927016868-ge5js8qn5fobef454pdrknu9tkjm2bp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Auth App</string>
+    <string name="login">Login</string>
+    <string name="do_you_have_an_account">Tienes una cuenta?</string>
+    <string name="register">Regístrate</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="do_you_have_not_an_account">NO tienes una cuenta?</string>
+    <string name="sign_out">SIGN OUT</string>
+</resources>

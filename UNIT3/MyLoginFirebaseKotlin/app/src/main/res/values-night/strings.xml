@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register">REGISTER</string>
+    <string name="do_you_have_not_an_account">Do you have not an account?</string>
+    <string name="sign_out">SIGN OUT</string>
+</resources>
