@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Artistas WS</string>
+
+    <array name="expertises">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Jazz</item>
+        <item>Sufi</item>
+        <item>Bollywood</item>
+        <item>Hollywood</item>
+    </array>
+
+</resources>
