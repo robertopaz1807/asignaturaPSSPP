@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monetizar con Admob</string>
+    <string name="banner">Banner</string>
+    <string name="interstitial">Interstitial</string>
+</resources>
